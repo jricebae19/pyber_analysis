@@ -13,7 +13,7 @@ The purpose of this analysis is to analyze the data given on the ride sharing co
 
 ![PyBer_Summary_Graph](analysis/PyBer_fare_summary.png)
 
->The above graph is a visual representation of the ride share data for the PyBer Fare by City Type. For all city types, there are a few spikes in terms of the fare. Like the summary table, this graph also shows that the majority of the fare being generated comes mostly from urban cities(blue), then suburban cities(orange) and lastly, rural cities(green). Judging from both the summary table and the graph, it is clear that the average fare for a ride in rural cities is the highest, but the most money being generated is in urban cities overall.
+>The above graph is a visual representation of the ride share data for the PyBer Fare by City Type. For all city types, there are a few spikes in terms of the fare. Like the summary table, this graph also shows that the majority of the fare being generated comes mostly from urban cities(green), then suburban cities(orange) and lastly, rural cities(blue). Judging from both the summary table and the graph, it is clear that the average fare for a ride in rural cities is the highest, but the most money being generated is in urban cities overall.
 
 ## Summary: 
 
